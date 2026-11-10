@@ -1,0 +1,32 @@
+{
+  "name": "@mewebe/mcp-servers",
+  "version": "1.2.0",
+  "description": "Official Model Context Protocol (MCP) server for MeWeBe (https://mewebe.com) — AI Startup Studio, 13+ Startup League tools, Post-Quantum TLS compliance checks, and UBI Infrastructure.",
+  "type": "module",
+  "main": "index.mjs",
+  "bin": {
+    "mewebe-mcp": "./index.mjs"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "post-quantum-cryptography",
+    "eu-ai-act",
+    "cyber-resilience-act",
+    "startups",
+    "ubi",
+    "mewebe",
+    "meweapps",
+    "ebrbe",
+    "toptimesheets"
+  ],
+  "homepage": "https://mewebe.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MeWeBecom/mewebe-mcp-servers.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
