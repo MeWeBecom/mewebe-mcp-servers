@@ -1,0 +1,19 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "name": "io.github.MeWeBecom/mewebe-mcp-servers",
+  "description": "MCP tools for Post-Quantum TLS & EU CRA domain checks (MeWeApps), hybrid AI-compute agency margin calculators (eBRBe), deskless payroll ROI (TopTimesheets), and the MeWeBe Startup League & UBI Infrastructure.",
+  "homepage": "https://mewebe.com",
+  "repository": {
+    "url": "https://github.com/MeWeBecom/mewebe-mcp-servers",
+    "source": "github"
+  },
+  "version": "1.2.0",
+  "packages": [
+    {
+      "registry_name": "npm",
+      "name": "@mewebe/mcp-servers",
+      "version": "1.2.0",
+      "runtime": "node"
+    }
+  ]
+}
